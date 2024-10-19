@@ -104,5 +104,6 @@ describe('voting', () => {
     expect(SolanaCandidate.candidateVotes.toNumber()).toEqual(1);
 
   });
+  console.log("Successfull All the Tests");
 
 });
